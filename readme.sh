@@ -4,6 +4,19 @@
 # https://seo.chinaz.com/
 # https://www.aizhan.com/seo/
 # http://tool.seowhy.com/
+# seo tools
+# https://github.com/artesaos/seotools
+
+# 基于Vue SEO的四种方案
+# https://segmentfault.com/a/1190000019623624
+# next-seo
+# https://github.com/garmeeh/next-seo
+
+
+# AngularJs站点使用prerender.io进行SEO优化支持
+# http://www.256kb.cn/public/html/2018/01/4a854350-8433-4026-b327-c74c4cad7651.html
+# https://juejin.im/post/5d3979d36fb9a07ee958b43e
+
 
 # 网页分析，还有建议
 open https://developers.google.com/speed/pagespeed/insights/?url=twant.com&tab=desktop
@@ -25,7 +38,6 @@ open https://developers.google.com/speed/pagespeed/insights/?url=twant.com&tab=d
 # Google 站长平台
 # https://search.google.com/search-console?resource_id=http%3A%2F%2F122.51.12.151%2F
 
-
 # https://developers.google.com/search?hl=zh-cn
 # https://developers.google.com/search/tools?hl=zh-cn
 
@@ -37,14 +49,21 @@ open https://developers.google.com/speed/pagespeed/insights/?url=twant.com&tab=d
 # Google 搜索的运作方式
 # https://www.google.com/search/howsearchworks/
 
-
 # 富媒体搜索结果测试正式上线
 # https://webmaster-cn.googleblog.com/?visit_id=637306395333710351-1305427142&p=blog&rd=1
-
-#
-# https://twitter.com/googlewmc
 
 #
 # Google 透明度报告
 # https://transparencyreport.google.com/?hl=zh-CN
 
+# 使用“noindex”阻止搜索引擎将您的网页编入索引
+# https://support.google.com/webmasters/answer/93710?hl=zh-Hans
+
+
+# twitter seo
+# https://twitter.com/googlewmc
+# https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/abouts-cards
+
+
+# facebook 分析
+# https://developers.facebook.com/tools/debug/?q=122.51.12.151
