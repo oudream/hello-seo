@@ -19,10 +19,19 @@
 
 
 # 网页分析，还有建议
-open https://developers.google.com/speed/pagespeed/insights/?url=twant.com&tab=desktop
+open https://developers.google.com/speed/pagespeed/insights
+# https://developers.google.com/speed/pagespeed/insights
 # 延后加载
 # https://github.com/aFarkas/lazysizes
 # https://web.dev/codelab-use-lazysizes-to-lazyload-images/
+
+# 测试工具
+open https://www.google.com/webmasters/tools/testing-tools-links?hl=zh-CN
+# https://www.google.com/webmasters/tools/testing-tools-links?hl=zh-CN
+# 使您的网页在所有设备上都能快速加载
+# https://developers.google.com/speed/pagespeed/insights/
+# 要求 Google 重新檢索你的網址
+# https://support.google.com/webmasters/answer/6065812
 
 # 谷歌 SEO
 # https://www.zhihu.com/topic/19591536/hot
