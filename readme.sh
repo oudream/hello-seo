@@ -7,8 +7,13 @@
 # seo tools
 # https://github.com/artesaos/seotools
 
+
 # 基于Vue SEO的四种方案
+open https://segmentfault.com/a/1190000019623624
 # https://segmentfault.com/a/1190000019623624
+# Vue.js 服务器端渲染指南
+open https://ssr.vuejs.org/zh/
+# https://ssr.vuejs.org/zh/
 # next-seo
 # https://github.com/garmeeh/next-seo
 
@@ -33,10 +38,15 @@ open https://www.google.com/webmasters/tools/testing-tools-links?hl=zh-CN
 # 要求 Google 重新檢索你的網址
 # https://support.google.com/webmasters/answer/6065812
 
+# 了解 JavaScript SEO 基础知识
+open https://developers.google.com/search/docs/guides/javascript-seo-basics?hl=zh-cn
+# https://developers.google.com/search/docs/guides/javascript-seo-basics?hl=zh-cn
+
 # 谷歌 SEO
 # https://www.zhihu.com/topic/19591536/hot
 
 # Google 网站站长
+open https://www.google.com/webmasters/
 # https://www.google.com/webmasters/
 
 # test 移动设备适合性测试
@@ -45,7 +55,8 @@ open https://www.google.com/webmasters/tools/testing-tools-links?hl=zh-CN
 # Google Analytics（分析）首页
 # https://analytics.google.com/analytics/web/
 # Google 站长平台
-# https://search.google.com/search-console?resource_id=http%3A%2F%2F122.51.12.151%2F
+open https://search.google.com/search-console?hl=zh-CN
+# https://search.google.com/search-console?hl=zh-CN
 
 # https://developers.google.com/search?hl=zh-cn
 # https://developers.google.com/search/tools?hl=zh-cn
@@ -76,3 +87,15 @@ open https://www.google.com/webmasters/tools/testing-tools-links?hl=zh-CN
 
 # facebook 分析
 # https://developers.facebook.com/tools/debug/?q=122.51.12.151
+
+
+### crawl
+# https://github.com/puppeteer/examples
+# https://github.com/yujiosaka/headless-chrome-crawler
+# https://github.com/xiongwilee/SkuSpider/blob/master/src/skuSpider.js
+# https://github.com/apify/apify-js
+# https://sdk.apify.com/
+# https://github.com/chrisvfritz/prerender-spa-plugin
+# https://github.com/GoogleChrome/rendertron
+# https://github.com/rendora/rendora
+# https://github.com/postor/ssr-proxy-puppeteer
